@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "ios": "cpp",
-        "xiosbase": "cpp",
-        "raylib.h": "c"
-    }
-}
