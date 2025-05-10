@@ -1,5 +1,5 @@
 # Jogo_FUJA
-Feito ( 01 / 05 / 2025)-
+Feito Por Arthur( 01 / 05 / 2025)
 
 Jogo feito em Raylib. Teste de dificuldades para npc
 
